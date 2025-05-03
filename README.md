@@ -12,3 +12,17 @@ In figure "raise side stand foot" a block is placed under the foot to stop it di
 ![flat tire](https://github.com/colbec/biketopple/blob/main/flattire.png)
 
 In figure "flat tire" the block is removed, the blue line again shows the distance from wheelbase to side stand foot. The red vector shows where the line to the tank is normally with the tire inflated. The cyan vector indicates where this line will be with the front tire deflated, taking 3 inches off the line from tank to wheelbase. The new tip of this vector with tire deflated will be 6 inches closer to the vertical.
+
+My output from running my code:
+
+```
+[ Info: Raise side stand foot
+Length vw: 33.53 
+3.58 degrees clockwise
+New vwr: [-7.98, 32.56]
+[ Info: Front tire goes flat
+10.81 degrees clockwise
+New wr vector: [11.89, 30.31]
+New vw: [-4.11, 30.31]
+Length of vw: 30.58
+```
